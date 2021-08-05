@@ -161,7 +161,7 @@ int main()
         case '5':
             fclose(fp);
             cout << "\n\n";
-            cout << "\t\t     THANK YOU FOR USING THIS SOFTWARE";
+            cout << "\t\t     THANK YOU FOR USING THIS SOFTWARE CREATED BY Vijay Pratap Singh Parihar";
             cout << "\n\n";
             exit(0);
         }
